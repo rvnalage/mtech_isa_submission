@@ -1,0 +1,5 @@
+"C:\Program Files\Java\jdk-11.0.9\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\lib\idea_rt.jar=50610:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\bin" -Dfile.encoding=UTF-8 -classpath D:\documents\rahul_sorted\source_code\mtech_isa_submission\target\classes org.example.HeartDiseaseClassifierApplication
+Accuracy for k = 1: 1.0
+Accuracy for k = 2: 0.5
+Accuracy for k = 3: 0.3333333333333333
+Accuracy for k = 4: 0.25

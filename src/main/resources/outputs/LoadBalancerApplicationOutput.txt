@@ -1,0 +1,6 @@
+"C:\Program Files\Java\jdk-11.0.9\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\lib\idea_rt.jar=49697:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\bin" -Dfile.encoding=UTF-8 -classpath D:\documents\rahul_sorted\source_code\mtech_isa_submission\target\classes org.example.CustomerSegmentationApplication
+Final Cluster:
+ - CustomerID: 1, Milk: 1000.0, Grocery: 2000.0
+ - CustomerID: 3, Milk: 100.0, Grocery: 200.0
+ - CustomerID: 4, Milk: 300.0, Grocery: 400.0
+ - CustomerID: 2, Milk: 3000.0, Grocery: 4000.0

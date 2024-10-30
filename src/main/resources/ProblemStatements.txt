@@ -1,0 +1,12 @@
+//VertexCoverApplication.java (CO 1 : Sr. No. 3)
+Give an efficient greedy algorithm that finds an optimal vertex cover for a tree in linear time. Analyse the time complexity.
+//LoadBalancerApplication.java (CO 1 : Sr. No. 5)
+Consider a high traffic website that receives millions of requests (of different types) per five minutes, the site has k (for example n = 1000) servers to process the requests. Design an algorithm to balance among servers.
+
+//CustomerSegmentationApplication.java (CO 2 : Sr. No. 8)
+Apply suitable hierarchical clustering algorithm to the problem of Wholesale Customer Segmentation. The aim of this problem is to segment the clients of a wholesale distributor based on their annual spending on diverse product categories, like milk, grocery, region, etc.
+//HeartDiseaseClassifierApplication.java (CO 2 : Sr. No. 9)
+Build a K-NN classifier for the “Heart Disease Data Set” (use Cleveland database) from UCI Machine Learning Repository which will predict the presence of heart disease in a patient or not. First normalize/rescale your data before applying K-NN. Experiment with different values of ‘k’ and determine which value of ‘k’ gives highest accuracy.
+
+//TwoKnapsackApplication.java (CO 1 : Sr. No. 1)
+Given an array ‘arr’ containing the weight of ‘N’ distinct items, and two knapsacks that can withstand ‘W1’ and ‘W2’ weights, the task is to find the sum of the largest subset of the array ‘arr’, that can be fit in the two knapsacks. It's not allowed to break any items in two, i.e an item should be put in one of the bags as a whole.
